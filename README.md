@@ -5,12 +5,13 @@
 </p>
 
 <p align="center">
-<img src="https://i.imgur.com/W8o.jpg" alt="ShizzyBot-MD" width="900"/>
+<img src=".com/W8o.
+ jpg" alt="ShizzyBot-MD" width="900"/>
 </p>
 
 <p align="center">
-<a href="#"><img title="ShizzyBot-MD" src="https://img.shields.io/badge/SI TE AGRADA EL REPOSITORIO APOYAME CON UNA 🌟 ¡GRACIAS! -red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a> 
-<img src="https://i.pinimg.com/originals/d4/3c/90/d43c90dfd0798030b.gif" height="28px">
+<a href="#"><img title="ShizzyBot-MD" src="https://img.ds.io/badge/SI TE AGRADA EL REPOSITORIO APOYAME CON UNA 🌟 ¡GRACIAS! -red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a> 
+<img src="https://i.pig.com/originals/d4/3c/90/d43c90dfd079b.gif" height="28px">
 </p>  
 
 <p align="center">
