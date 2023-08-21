@@ -12,8 +12,8 @@ import { en, es, id, ar, pt, fr, hi } from './lib/idiomas/total-idiomas.js'
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰  
 
 global.owner = [
-  ['19146396740', 'andy (shizzy)', true],  
-  ['19146396740', 'Creator (1) 💻', true],
+  ['50937069302', 'andy (shizzy)', true],  
+  ['50937069302', 'Creator (1) 💻', true],
   ['59894808483', '𝘾𝙪𝙨𝙩𝙤𝙢𝙚𝙧 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 🥏', true],
   ['5218442286089', 'DIEGO-OFC | COLABO', true],
   ['59894808483'],
@@ -118,7 +118,7 @@ global.desc = '' //agrega una descripción corta
 global.desc2 = 'Whatsapp bot created by andy' //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
 global.country = '' //agrega tú país ejemplo: 🇪🇨
 
-global.packname = 'andymrlit 🐈'
+global.packname = 'andymrlit'
 global.author = 'Shizzy'
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
